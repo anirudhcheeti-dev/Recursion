@@ -6,11 +6,14 @@ public class Numbers_example {
     }
 
     static void numbers1(int n) {
-        if(n==10){
+        //base condition
+        if(n==1000){
             System.out.println(n);
             return;
         }
+        //body and its progress
         System.out.println(n);
         numbers1(n+1);
+        //function calling itself
     }
 }
