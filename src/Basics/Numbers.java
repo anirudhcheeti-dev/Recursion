@@ -1,3 +1,5 @@
+package Basics;
+
 public class Numbers {
 
     static void main() {

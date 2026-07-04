@@ -1,3 +1,5 @@
+package Basics;
+
 public class fibonacci {
     static void main() {
         //Print numbers from 1 to 5.
